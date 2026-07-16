@@ -153,5 +153,5 @@ The generated lock files should not be edited manually.
 ## Current project status
 
 - Project setup and folder structure — completed
-- Git and environment setup — in progress
+- Git and environment setup — completed
 - Data ingestion — next
