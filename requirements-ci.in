@@ -1,0 +1,12 @@
+# Include locked project runtime dependencies
+-r requirements.txt
+
+# Visualisation import verification
+matplotlib
+
+# Automated testing
+pytest
+pytest-cov
+
+# Code quality
+ruff
