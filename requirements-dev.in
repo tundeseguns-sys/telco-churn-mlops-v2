@@ -1,0 +1,19 @@
+# Include the locked runtime dependencies
+-r requirements.txt
+
+# Dependency management
+pip-tools
+
+# Jupyter notebooks
+ipykernel
+jupyterlab
+
+# Data visualisation
+matplotlib
+
+# Automated testing
+pytest
+pytest-cov
+
+# Code quality and formatting
+ruff

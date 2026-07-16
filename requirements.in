@@ -1,0 +1,12 @@
+# Core numerical and tabular data processing
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+
+# Saving and loading trained pipelines
+joblib
+
+# Reading configuration files
+pyyaml
